@@ -22,7 +22,8 @@
     <string name="strmnucontact">Contact us</string>
     <!-- About Developer -->
     <string name="strmnuabout">VATSAG Inc. All rights reserved.</string>
-
+    <string name="strauthemail">srivatsahg@gmail.com</string>
+    <string name="strcompanyaddress">BN7 2BY</string>
     <!-- Dialog box messages -->
     <string name="dialogTitleInformation">Information</string>
     <string name="dialogTitleError">Error</string>
